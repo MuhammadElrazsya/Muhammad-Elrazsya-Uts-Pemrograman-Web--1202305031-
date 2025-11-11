@@ -88,7 +88,7 @@
 
 <!-- FOOTER -->
 <footer class="mt-10 text-center text-gray-500 text-sm pb-6">
-  &copy; <?php echo date('Y'); ?> Rumah Sakit Sehat Sentosa. Semua Hak Dilindungi.
+  &copy; <?php echo date('Y'); ?> Rumah Sakit Rasya Ponorogo. Semua Hak Dilindungi.
 </footer>
 
 </body>
